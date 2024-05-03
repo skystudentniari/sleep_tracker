@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "01:11",
+        "wake_up_time": "12:34",
+        "hours_slept": "11:23:00",
+        "sleep_quality": "bad",
+        "notes": ""
+    },
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "21:34",
+        "wake_up_time": "7:45",
+        "hours_slept": "10:11:00",
+        "sleep_quality": "good",
+        "notes": "приснился единорог"
+    },
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "01:23",
+        "wake_up_time": "11:43",
+        "hours_slept": "10:20:00",
+        "sleep_quality": "good",
+        "notes": ""
+    },
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "01:23",
+        "wake_up_time": "11:45",
+        "hours_slept": "10:22:00",
+        "sleep_quality": "bad",
+        "notes": ""
+    },
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "01:11",
+        "wake_up_time": "11:23",
+        "hours_slept": "10:12:00",
+        "sleep_quality": "badd",
+        "notes": ""
+    },
+    {
+        "date": "2024-04-30",
+        "time_to_sleep": "21:34",
+        "wake_up_time": "7:54",
+        "hours_slept": "10:20:00",
+        "sleep_quality": "good",
+        "notes": ""
+    }
+]
